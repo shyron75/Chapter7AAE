@@ -1,7 +1,7 @@
 /*
-Author:
+Author: SHyron
 Date:
-File Name: 
+File Name:
 */
 
 /* CSS Reset */
@@ -38,4 +38,9 @@ aside {
 footer {
 	font-size: .70em;
 	text-align: center;
+}
+
+article{
+  columns: 3;
+
 }
